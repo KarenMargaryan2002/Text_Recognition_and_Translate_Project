@@ -1,0 +1,2 @@
+# Text_Recognition_and_Translate_Project
+Text Recognition and Translate Project
